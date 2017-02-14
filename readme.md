@@ -1,6 +1,7 @@
 # TodoMVC App Template
 
 > Template used for creating [TodoMVC](http://todomvc.com) apps
+> 自己修改的利用angular.js制作的todomvc应用
 
 ![](https://github.com/tastejs/todomvc-app-css/raw/master/screenshot.png)
 
