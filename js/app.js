@@ -118,6 +118,15 @@
 			return path;
 		}
 		$scope.select();
+		//根据length 决定是否保留底部栏目
+		$scope.showfooter = function(){
+			if($scope.todolist.length){
+				return true;
+			}else{
+				return false;
+			}
+		}
+
 	}]);
 
 
